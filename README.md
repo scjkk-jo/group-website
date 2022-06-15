@@ -23,3 +23,6 @@ are caused by two trailing spaces at the end of a line.
     2. Section 2
 4. Philosophers' carpentry
 
+![Uni of Leeds logo](./unileedslogo.png)
+
+University of Leeds logo, &copy; University of Leeds 2022
